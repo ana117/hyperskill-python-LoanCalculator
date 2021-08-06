@@ -1,5 +1,5 @@
 # Loan Calculator
-A simple financial calculator for different parameters that can accept command-line arguments. 
+A simple financial calculator for different parameters that can accept command-line arguments.\
 Link to the project [Loan Calculator](https://hyperskill.org/projects/90).
 
 ## Test Cases
